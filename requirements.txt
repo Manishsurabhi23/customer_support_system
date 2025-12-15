@@ -1,0 +1,100 @@
+# ===========================
+# Core Python Data Science
+# ===========================
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipython
+ipywidgets
+
+# ===========================
+# Deep Learning Frameworks
+# ===========================
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+xgboost
+lightgbm
+catboost
+
+# ===========================
+# NLP Libraries
+# ===========================
+nltk
+spacy
+gensim
+transformers
+sentencepiece
+textblob
+fuzzywuzzy
+regex
+
+# ===========================
+# Hugging Face Ecosystem
+# ===========================
+datasets
+accelerate
+huggingface_hub
+evaluate
+peft
+trl
+
+# ===========================
+# OpenAI + LangChain Ecosystem
+# ===========================
+openai
+langchain
+langchain-community
+langgraph
+faiss-cpu
+chromadb
+pinecone-client
+weaviate-client
+
+# ===========================
+# Computer Vision
+# ===========================
+opencv-python
+pillow
+scikit-image
+imageio
+albumentations
+mediapipe
+
+# ===========================
+# Utilities & Experiment Tracking
+# ===========================
+tqdm
+joblib
+wandb
+mlflow
+tensorboard
+pyyaml
+rich
+
+# ===========================
+# Data Handling / Big Data
+# ===========================
+pyarrow
+fastparquet
+dask
+polars
+
+# ===========================
+# Other Useful Tools
+# ===========================
+beautifulsoup4
+requests
+lxml
+plotly
+dash
+flask
+fastapi
+uvicorn
