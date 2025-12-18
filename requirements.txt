@@ -98,3 +98,10 @@ dash
 flask
 fastapi
 uvicorn
+
+
+# ===========================
+langchain-astradb
+
+# ===========================
+-e .  #this will install the setup.py file and find packages (__init__.py )
