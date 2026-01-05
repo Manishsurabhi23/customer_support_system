@@ -1,7 +1,7 @@
 astra_db:
   collection_name: "chatbot_ecomm"
 
-embedding_models:
+embedding_model:
   provider: "openai"
   model_name: "text-embedding-3-small"
 
@@ -11,3 +11,7 @@ retriever:
 llm:
   provider: "openai"
   model_name: "gpt-4.1-mini"
+
+data_ingestion:
+  csv_path: 'D:\krish_naik_data_science_course\NLP\customer_support_system\data\flipkart_product_review.csv'
+  file_name: "flipkart_product_review.csv"
